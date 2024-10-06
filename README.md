@@ -19,16 +19,16 @@ This project demonstrates the implementation of a water depth sensor using an Ar
 
 ## Schematic Diagrams
 1. **Schematic 1: Arduino and LED**
-   ![Schematic 1]()
+   ![Schematic 1](schematics/schematics1.png)
 
 2. **Schematic 2: Arduino and Sensor**
-   ![Schematic 2]()
+   ![Schematic 2](schematics/schematics2.png)
 
 3. **Schematic 3: Arduino and LCD 16x2**
-   ![Schematic 3]()
+   ![Schematic 3](schematics/schematics3.png)
 
 4. **Complete Circuit Diagram**
-   ![Complete Circuit]()
+   ![Complete Circuit](schematics/complete_circuit.png)
 
 ## Flowchart
 ### Program Flowchart
